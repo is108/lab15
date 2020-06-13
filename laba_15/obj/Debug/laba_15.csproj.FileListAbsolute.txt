@@ -1,0 +1,10 @@
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\bin\Debug\laba_15.exe.config
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\bin\Debug\laba_15.exe
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\bin\Debug\laba_15.pdb
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.csprojAssemblyReference.cache
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.Form1.resources
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.Properties.Resources.resources
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.csproj.GenerateResource.cache
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.csproj.CoreCompileInputs.cache
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.exe
+C:\Nikita\_Универ\3 курс\2 семак\Имитационное моделирование\4 блок\laba_15\obj\Debug\laba_15.pdb
